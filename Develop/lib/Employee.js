@@ -1,4 +1,9 @@
 // TODO: Write code to define and export the Employee class
+
+//resources: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
 class Employee {
   constructor(name, id, email) {
     this.name = name;
