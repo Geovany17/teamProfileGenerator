@@ -47,7 +47,7 @@ This command-line application dynamically generates a README.md from a user's in
 
 ## Repository
 
-- [Project Repo](https://github.com/Geovany17/goodReadmeGenerator)
+- [Project Repo](https://github.com/Geovany17/teamProfileGenerator/blob/master/README.md)
 
 ## GitHub
 
