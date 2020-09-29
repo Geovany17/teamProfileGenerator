@@ -160,4 +160,3 @@ function addIntern() {
 }
 
 createTeam();
-module.exports = employees;
