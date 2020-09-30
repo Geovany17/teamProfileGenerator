@@ -14,6 +14,7 @@ You will build a software engineering team generator command line application. T
 
 
 ![teamProfileGenerator demo](https://github.com/Geovany17/teamProfileGenerator/blob/master/Assets/teamprof.gif)
+![teamProfileGenerator demo]()
 
 
 ## Table of contents
