@@ -1,0 +1,37 @@
+.team-area {
+  justify-content: space-between;
+}
+body {
+  background-color: #d3b700;
+}
+
+#main {
+  margin-top: 5rem;
+}
+
+.jumbotron {
+  background-color: #008ad3;
+  color: #f9f9f9;
+}
+li a {
+  color: #6e448f;
+}
+
+.card {
+  background-color: #00d345;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.9rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: #f9f9f9;
+  background-color: #008ad3;
+  margin-top: 12rem;
+}
+
+a {
+  color: #f9f9f9;
+}
