@@ -13,7 +13,7 @@ You will build a software engineering team generator command line application. T
 
 
 
-![teamProfileGenerator demo](https://github.com/Geovany17/weatherApp/blob/master/assets/)
+![teamProfileGenerator demo](https://github.com/Geovany17/teamProfileGenerator/blob/master/Assets/teamprof.gif)
 
 
 ## Table of contents
